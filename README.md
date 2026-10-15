@@ -77,7 +77,7 @@ Setiap pertandingan bisa dimainkan **secara langsung** di lapangan 3D dengan kon
 
 > APK ini dibagikan di luar Play Store, jadi Android akan menampilkan peringatan keamanan standar. Unduh hanya dari halaman Releases resmi ini.
 
-## 🕹️ Kontrol
+## Kontrol
 
 | Aksi | Sentuh | Keyboard |
 |---|---|---|
@@ -89,7 +89,7 @@ Setiap pertandingan bisa dimainkan **secara langsung** di lapangan 3D dengan kon
 | Sprint | Tombol Sprint | `Shift` |
 | Jeda | Menu jeda | `P` |
 
-## 🖼️ Tangkapan Layar
+## Tangkapan Layar
 
 <!-- Tambahkan screenshot di sini, misalnya:
 <p align="center">
@@ -109,7 +109,7 @@ Setiap pertandingan bisa dimainkan **secara langsung** di lapangan 3D dengan kon
 - HP kelas menengah ke bawah? Pilih grafis **Rendah** di tab Menu agar permainan lancar.
 - Gunakan menu **Ekspor** untuk menyalin data karier sebagai cadangan.
 
-## 📜 Riwayat Versi
+## Riwayat Versi
 
 | Versi | Sorotan |
 |---|---|
@@ -120,22 +120,20 @@ Setiap pertandingan bisa dimainkan **secara langsung** di lapangan 3D dengan kon
 | **4.0** | Gym Elite, momentum nilai pasar, laga langsung lebih halus |
 | **3.x** | Liga berjenjang, agen, asmara, media sosial, Puskas Award, dan banyak lagi |
 
-## ⚖️ Catatan
+## Catatan
 
 - Legenda Lapangan adalah karya fiksi dan **tidak berafiliasi** dengan FIFA, UEFA, AFC, klub, maupun pemain mana pun.
 - Beberapa data, seperti kekuatan klub dan komposisi liga, adalah perkiraan.
 - Peringkat FIFA mengacu pada data 7 Oktober 2026.
 
-## 💬 Masukan
+## Masukan
 
-Menemukan bug atau punya ide fitur? Buka tab **[Issues](https://github.com/Mansahx/legenda-lapangan/issues)** dan ceritakan.
+Menemukan bug atau punya ide fitur? Buka tab **[Issues](https://github.com/Mansahx/legenda-lapangan-demo/issues)** dan ceritakan.
 
 ---
 
 <div align="center">
 
 © 2026 [Mansahx](https://github.com/Mansahx). Semua hak dilindungi. Dilarang mengunggah ulang atau menjual APK ini tanpa izin.
-
-**Selamat berjuang, calon legenda!** ⚽🏆
 
 </div>
