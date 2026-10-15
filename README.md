@@ -2,6 +2,8 @@
 
 # Legenda Lapangan
 
+- Sorry, this game is currently available in Indonesian only. English support may come in a future update.
+
 ### Bangun karier sepak bola dari nol sampai menjadi legenda dunia.
 
 Game karier pemain sepak bola berbahasa Indonesia untuk Android.
@@ -93,8 +95,10 @@ Setiap pertandingan bisa dimainkan **secara langsung** di lapangan 3D dengan kon
 
 <p align="center">
   <img width="30%" alt="image" src="https://github.com/user-attachments/assets/9128f0b7-fd08-462a-924f-9c38be3b9455" />
-  <img src="screenshots/laga.png" width="30%" />
-  <img src="screenshots/transfer.png" width="30%" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/92a7359e-418c-4afd-b4d3-d76d790ae2b1" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/0548325c-d490-4dc6-93b2-be8ffde51785" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/f6f3d163-cea3-40dc-adce-365d2f0dbac5" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/1db23fbd-c964-4782-811b-b55719d5768c" />
 </p>
 
 ## Tips Bermain
