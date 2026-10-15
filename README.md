@@ -91,15 +91,11 @@ Setiap pertandingan bisa dimainkan **secara langsung** di lapangan 3D dengan kon
 
 ## Tangkapan Layar
 
-<!-- Tambahkan screenshot di sini, misalnya:
 <p align="center">
-  <img src="screenshots/beranda.png" width="30%" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/9128f0b7-fd08-462a-924f-9c38be3b9455" />
   <img src="screenshots/laga.png" width="30%" />
   <img src="screenshots/transfer.png" width="30%" />
 </p>
--->
-
-*Segera hadir.*
 
 ## Tips Bermain
 
