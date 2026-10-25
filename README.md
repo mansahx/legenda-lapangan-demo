@@ -2,7 +2,7 @@
 
 # Legenda Lapangan
 
-**English** | [Bahasa Indonesia](README.id.md)
+**English** | [Bahasa Indonesia](README.ID.md)
 
 ### Build a football career from nothing and become a world legend.
 
